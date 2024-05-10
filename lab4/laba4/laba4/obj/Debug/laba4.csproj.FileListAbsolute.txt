@@ -1,7 +1,0 @@
-C:\Users\Moloz\Desktop\lab4\laba4\laba4\obj\Debug\laba4.csproj.AssemblyReference.cache
-C:\Users\Moloz\Desktop\lab4\laba4\laba4\obj\Debug\laba4.csproj.CoreCompileInputs.cache
-C:\Users\Moloz\Desktop\lab4\laba4\laba4\bin\Debug\laba4.exe.config
-C:\Users\Moloz\Desktop\lab4\laba4\laba4\bin\Debug\laba4.exe
-C:\Users\Moloz\Desktop\lab4\laba4\laba4\bin\Debug\laba4.pdb
-C:\Users\Moloz\Desktop\lab4\laba4\laba4\obj\Debug\laba4.exe
-C:\Users\Moloz\Desktop\lab4\laba4\laba4\obj\Debug\laba4.pdb
